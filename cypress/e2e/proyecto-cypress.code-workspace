@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Gasco/gascox-fe-storybook-gasco"
+		}
+	],
+	"settings": {}
+}
